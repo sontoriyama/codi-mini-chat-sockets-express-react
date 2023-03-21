@@ -1,0 +1,7 @@
+millorar els estils i afegir features no trobo la clase base
+
+exemples d'on pujar pel tema del socketio dels websockets
+Página para Renderizar el cliente: https://www.netlify.com/
+Página para Renderizar el servidor: https://render.com/
+
+codi fàcil de repasar temes apresos pk ve amb explicacións//
